@@ -1,7 +1,7 @@
-# symptom-disease
+# Many birds, one stone
 Finds out symptoms similar to a given symptom, from a symptom-disease data set.
 
-This model is used to predict symptoms that are closely related to a given symptom. It can be used in cases where the user enters a symptom, and the list of similar symptoms pop up, of which the user can select the ones he's suffering from, and these can be further fed into a model that can then predict the disease the person is suffering from.
+This model is used to predict symptoms that are closely related to a given symptom. It can be used in cases (read apps) where the user enters a symptom, and a list of similar symptoms pop up, of which the user can select the ones he's suffering from, and these can be further fed into a model that can then predict the disease the person is suffering from, and redirect him to the associated specialist. The latter part isn't included here.
 
 The data set contains a table of diseases and the associated symptoms. The model architecture is as follows:
  1) After preprocessing, make the data into the symptom-disease format from the existing disease-symptom format.
@@ -16,4 +16,4 @@ The different csv files are :
  2) Symptom Counts, which show the number of occurences of each symptom in the data set.
  3) Unrepresented Words, which shows the occurences of words that are not represented in the GloVe vectors.
 
-The code is heavily documented, and all the details on implementing the model architecture can be found in it.
+The code is heavily documented, and all the details regarding the implementation of the model architecture can be found in it.
