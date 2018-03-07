@@ -62,7 +62,7 @@ df.Disease = df.Disease.map(lambda x: re.sub('\\xa0', ' ', x))
 
 # there may be words in the data set that don't have a representation in the 50-d GloVe vectors.
 # Now, new embeddings for such words can be generated, but they'll require humungous amounts of data
-# that maps its context words (diseases in this case), that is trained for at least 10000 iterations, in order to 
+# that maps its context words (diseases in this case), that has to be trained for at least 10000 iterations, in order to 
 # generalise well. And upon inspection, 
 counts = {}
 def remove(x):
@@ -231,7 +231,7 @@ new_vecs = np.load(x)
 # find the value to which cosine similarity is compared, from the file name
 similarity_score = float(re.findall('\d{1,}\.\d{1,}', x)[0])
 
-# NOTE : the similarity_score (like 0.6 in this case), is a hyperparameter that needs to be selected manually and tuned, to obtain
+# NOTE : the 'similarity_score' (like 0.6 in this case), is a hyperparameter that needs to be selected manually and tuned, to obtain
 # best performance
 
 d = pd.read_csv('Dictionary.csv')
@@ -246,6 +246,6 @@ print ('\nThe similar symptoms are: ')
 # loop through the symptoms in the data set and find the symptoms with cosine similarity greater than 'similarity_score'
 for i in set(symptom):
     if (cosine_similarity(new_vecs[dic[i]], new_vecs[dic[symp]])) > similarity_score:
-        # remove the same word from the list of outputs
+        # remove the same symptom from the list of outputs
         if i != symp:
             print (i)
