@@ -1,0 +1,399 @@
+Symptom,Count
+shortness of breath,46
+pain,41
+fever,34
+pain abdominal,27
+diarrhea,24
+vomiting,24
+asthenia,22
+cough,22
+dyspnea,22
+nausea,22
+unresponsiveness,22
+chill,20
+pain chest,20
+apyrexial,19
+decreased body weight,19
+agitation,18
+rale,18
+lesion,17
+mass of body structure,17
+hypotension,16
+sore to touch,16
+hallucinations auditory,14
+night sweat,14
+orthopnea,14
+syncope,14
+thicken,14
+haemorrhage,13
+swelling,13
+tremor,13
+distress respiratory,12
+feeling suicidal,12
+hypokinesia,12
+patient non compliance,12
+suicidal,12
+feeling hopeless,11
+irritable mood,11
+sleepy,11
+sweating increased,11
+tachypnea,11
+wheezing,11
+worry,11
+ascites,10
+blackout,10
+difficulty,10
+dyspnea on exertion,10
+headache,10
+hemiplegia,10
+hyponatremia,10
+non-productive cough,10
+pleuritic pain,10
+pruritus,10
+seizure,10
+sleeplessness,10
+angina pectoris,9
+constipation,9
+facial paresis,9
+fall,9
+fatigue,9
+hallucinations visual,9
+hemodynamically stable,9
+hyperkalemia,9
+mental status changes,9
+palpitation,9
+productive cough,9
+anorexia,8
+bradycardia,8
+chest tightness,8
+dizziness,8
+guaiac positive,8
+homelessness,8
+prostatism,8
+tumor cell invasion,8
+abdominal tenderness,7
+abscess bacterial,7
+chest discomfort,7
+consciousness clear,7
+decreased translucency,7
+distended abdomen,7
+erythema,7
+jugular venous distention,7
+lethargy,7
+mood depressed,7
+myalgia,7
+redness,7
+rhonchus,7
+transaminitis,7
+unconscious state,7
+unsteady gait,7
+weepiness,7
+breath sounds decreased,6
+dysarthria,6
+hematuria,6
+intoxication,6
+muscle twitch,6
+nightmare,6
+numbness,6
+pressure chest,6
+sinus rhythm,6
+verbal auditory hallucinations,6
+yellow sputum,6
+catatonia,5
+clonus,5
+cushingoid habitus,5
+ecchymosis,5
+energy increased,5
+extreme exhaustion,5
+food intolerance,5
+general discomfort,5
+gurgle,5
+haemoptysis,5
+labored breathing,5
+lightheadedness,5
+metastatic lesion,5
+motor retardation,5
+oliguria,5
+orthostasis,5
+scar tissue,5
+snuffle,5
+speech slurred,5
+splenomegaly,5
+throat sore,5
+vertigo,5
+asterixis,4
+aura,4
+bedridden,4
+burning sensation,4
+cachexia,4
+drowsiness,4
+dysuria,4
+egophony,4
+enuresis,4
+fremitus,4
+gravida 0,4
+green sputum,4
+has religious belief,4
+heartburn,4
+"hypothermia, natural",4
+hypoxemia,4
+left atrial hypertrophy,4
+lung nodule,4
+nausea and vomiting,4
+neck stiffness,4
+nervousness,4
+numbness of hand,4
+painful swallowing,4
+paresthesia,4
+polydypsia,4
+polyuria,4
+sensory discomfort,4
+spontaneous rupture of membranes,4
+stiffness,4
+symptom aggravating factors,4
+urge incontinence,4
+urgency of micturition,4
+weight gain,4
+withdraw,4
+achalasia,3
+arthralgia,3
+ataxia,3
+breech presentation,3
+cardiomegaly,3
+cardiovascular event,3
+colic abdominal,3
+cyanosis,3
+debilitation,3
+decompensation,3
+difficulty passing urine,3
+emphysematous change,3
+fatigability,3
+flatulence,3
+formication,3
+frail,3
+hematocrit decreased,3
+heme positive,3
+hepatosplenomegaly,3
+hoarseness,3
+hypercapnia,3
+indifferent mood,3
+loose associations,3
+malaise,3
+moan,3
+monoclonal,3
+neologism,3
+out of breath,3
+paraparesis,3
+paresis,3
+photophobia,3
+polymyalgia,3
+presence of q wave,3
+projectile vomiting,3
+qt interval prolonged,3
+room spinning,3
+satiety early,3
+scratch marks,3
+snore,3
+spasm,3
+stahlis line,3
+stool color yellow,3
+stupor,3
+systolic murmur,3
+t wave inverted,3
+tenesmus,3
+terrify,3
+tired,3
+unhappy,3
+urinary hesitation,3
+verbally abusive behavior,3
+wheelchair bound,3
+abnormally hard consistency,2
+absences finding,2
+ache,2
+ambidexterity,2
+aphagia,2
+asymptomatic,2
+atypia,2
+awakening early,2
+behavior hyperactive,2
+bleeding of vagina,2
+cicatrisation,2
+clammy skin,2
+cystic lesion,2
+decreased stool caliber,2
+disturbed family,2
+dullness,2
+estrogen use,2
+extrapyramidal sign,2
+feeling strange,2
+flushing,2
+general unsteadiness,2
+giddy mood,2
+groggy,2
+hacking cough,2
+heavy legs,2
+hemianopsia homonymous,2
+hepatomegaly,2
+hirsutism,2
+hot flush,2
+hunger,2
+hydropneumothorax,2
+hyperacusis,2
+hypersomnia,2
+hypoalbuminemia,2
+hypocalcemia result,2
+hypokalemia,2
+hypotonic,2
+impaired cognition,2
+lip smacking,2
+mass in breast,2
+mediastinal shift,2
+moody,2
+myoclonus,2
+nonsmoker,2
+pain back,2
+pallor,2
+para 1,2
+paralyse,2
+poor dentition,2
+posturing,2
+pulsus paradoxus,2
+pustule,2
+renal angle tenderness,2
+scleral icterus,2
+side pain,2
+slowing of urinary stream,2
+sputum purulent,2
+st segment depression,2
+stridor,2
+stuffy nose,2
+superimposition,2
+systolic ejection murmur,2
+unable to concentrate,2
+uncoordination,2
+vision blurred,2
+abdomen acute,1
+abdominal bloating,1
+abnormal sensation,1
+abortion,1
+adverse effect,1
+air fluid level,1
+alcohol binge episode,1
+alcoholic withdrawal symptoms,1
+anosmia,1
+barking cough,1
+behavior showing increased motor activity,1
+blanch,1
+bowel sounds decreased,1
+bradykinesia,1
+breakthrough pain,1
+breath-holding spell,1
+bruit,1
+catching breath,1
+charleyhorse,1
+choke,1
+claudication,1
+clumsiness,1
+coordination abnormal,1
+disequilibrium,1
+dizzy spells,1
+drool,1
+dysdiadochokinesia,1
+dysesthesia,1
+dyspareunia,1
+elation,1
+excruciating pain,1
+exhaustion,1
+fear of falling,1
+fecaluria,1
+feces in rectum,1
+feels hot feverish,1
+flare,1
+floppy,1
+focal seizures,1
+frothy sputum,1
+gag,1
+gasping for breath,1
+gravida 10,1
+heavy feeling,1
+heberdens node,1
+hematochezia,1
+history of - blackout,1
+hoard,1
+homicidal thoughts,1
+hyperemesis,1
+hyperhidrosis disorder,1
+hypersomnolence,1
+hypertonicity,1
+hyperventilation,1
+hypesthesia,1
+hypometabolism,1
+hypoproteinemia,1
+immobile,1
+inappropriate affect,1
+incoherent,1
+intermenstrual heavy bleeding,1
+large-for-dates fetus,1
+low back pain,1
+macerated skin,1
+macule,1
+milky,1
+monocytosis,1
+murphys sign,1
+mydriasis,1
+nasal discharge present,1
+nasal flaring,1
+no known drug allergies,1
+no status change,1
+noisy respiration,1
+overweight,1
+pain foot,1
+pain in lower limb,1
+pain neck,1
+panic,1
+pansystolic murmur,1
+para 2,1
+passed stones,1
+pericardial friction rub,1
+phonophobia,1
+photopsia,1
+pin-point pupils,1
+pneumatouria,1
+poor feeding,1
+posterior rhinorrhea,1
+previous pregnancies 2,1
+primigravida,1
+prodrome,1
+prostate tender,1
+proteinemia,1
+pulse absent,1
+r wave feature,1
+rambling speech,1
+rapid shallow breathing,1
+red blotches,1
+regurgitates after swallowing,1
+rest pain,1
+retch,1
+retropulsion,1
+rhd positive,1
+rigor - temperature-associated observation,1
+rolling of eyes,1
+sciatica,1
+sedentary,1
+shooting pain,1
+sneeze,1
+sniffle,1
+soft tissue swelling,1
+st segment elevation,1
+stinging sensation,1
+throbbing sensation quality,1
+tinnitus,1
+titubation,1
+todd paralysis,1
+tonic seizures,1
+transsexual,1
+tremor resting,1
+underweight,1
+unwell,1
+urinoma,1
+welt,1
